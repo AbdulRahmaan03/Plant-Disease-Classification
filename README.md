@@ -1,5 +1,5 @@
 # Plant-Leaf-Disease-Classification
-- This project aims to classify different leafs of plants such as potato, pepper bell and tomato to their respective types based on the features learnt from their images.
+- This project aims to classify different leaves of plants such as potatoes, pepper bell, and tomatoes to their respective types based on the features learned from their images.
 ### Dataset Used
 - [Plant Village](https://www.kaggle.com/datasets/arjuntejaswi/plant-village?resource=download)
 ### Accuracy
